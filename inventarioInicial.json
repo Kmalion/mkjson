@@ -1,0 +1,1079 @@
+[
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EBIT 60 ",
+        "descripcion": "ECOGRAFO EBIT 60",
+        "marca": "CHISON",
+        "serial": "122060464",
+        "precio": 700,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "L7-E",
+        "descripcion": "TRANSDUCTOR LINEAL EBIT 60 ",
+        "marca": "CHISON",
+        "serial": "2220352154",
+        "precio": 9000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "C3-E",
+        "descripcion": "TRANSDUCTOR CONVEX EBIT 60 ",
+        "marca": "CHISON",
+        "serial": "2220352110",
+        "precio": 9000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "SONOEYE P2",
+        "descripcion": "ECOGRAFO PORTATIL LINEAL ",
+        "marca": "CHISON",
+        "serial": "122063017",
+        "precio": 90,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "SONOEYE P2",
+        "descripcion": "ECOGRAFO PORTATIL LINEAL ",
+        "marca": "CHISON",
+        "serial": "122063018",
+        "precio": 80,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EBIT 60 ",
+        "descripcion": "ECOGRAFO EBIT 60",
+        "marca": "CHISON",
+        "serial": "121120674",
+        "precio": 500,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "L7-E",
+        "descripcion": "TRANSDUCTOR LINEAL EBIT 60 ",
+        "marca": "CHISON",
+        "serial": "2220350489",
+        "precio": 400,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "C3-E",
+        "descripcion": "TRANSDUCTOR CONVEX EBIT 60 ",
+        "marca": "CHISON",
+        "serial": "2220652492",
+        "precio": 600,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "LT-1730",
+        "descripcion": "LACTATE PRO2",
+        "marca": "ARKRAY",
+        "serial": "1730-2000404",
+        "precio": 700,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "LT-1730",
+        "descripcion": "LACTATE PRO2 ",
+        "marca": "ARKRAY",
+        "serial": "1730-2000405",
+        "precio": 9000,
+        "cantidad": 18
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": 105882,
+        "descripcion": "TIRILLA DE PRUEBA SANGRE X25 ",
+        "marca": "ARKRAY",
+        "serial": "LOTE M196B01L VENCE 202106",
+        "precio": 900,
+        "cantidad": 5
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "GLUCOCARD ",
+        "descripcion": "TIRILLAS DE PRUEBA X50 ",
+        "marca": "ARKRAY",
+        "serial": "LOTE 3AK211 VENCE 202304",
+        "precio": 200,
+        "cantidad": 2
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": 73591,
+        "descripcion": "TIRILLAS PARA PRUEBA DE ORINA X100",
+        "marca": "ARKRAY",
+        "serial": "LOTE 0EA1J16 VENCE 202309",
+        "precio": 500,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "GLUCOQUICK",
+        "descripcion": "LANCETAS ESTERILES X 50 ",
+        "marca": "DIABETRIX ",
+        "serial": "N/T",
+        "precio": 60,
+        "cantidad": 3
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "PU-4010",
+        "descripcion": "ANALIZADOR DE ORINA",
+        "marca": "ARKRAY",
+        "serial": "62010007",
+        "precio": 60,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "820-0106-15",
+        "descripcion": "CIRCUITO DE VENTILACION PEDIATRICO / ADULTO ",
+        "marca": "ZOLL",
+        "serial": "LOTE 1721A VENCE 20260424",
+        "precio": 4,
+        "cantidad": 75
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "820-0107-20",
+        "descripcion": "CIRCUITO DE VENTILACION PEDIATRICO",
+        "marca": "ZOLL",
+        "serial": "LOTE 4520 VENCE 20251107",
+        "precio": 400,
+        "cantidad": 20
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "UPO11-3",
+        "descripcion": "UPS 3KBA ",
+        "marca": "CDP",
+        "serial": "879071000475",
+        "precio": 90,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "N/A",
+        "referencia": "N/A",
+        "descripcion": "CAMILLA GRIS ",
+        "marca": "N/A",
+        "serial": "N/A",
+        "precio": 80,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EZU-HC1N",
+        "descripcion": "CARRO TRANSPORTE NOBLUS ",
+        "marca": "HITACHI",
+        "serial": "206A1022",
+        "precio": 80,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EZU-AB8",
+        "descripcion": "EXTENSOR ( CARRO NOBLUS )",
+        "marca": "HITACHI",
+        "serial": "G3015055",
+        "precio": 50,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "N/A ",
+        "marca": "WT3540 ",
+        "serial": "N/A ",
+        "precio": 50,
+        "cantidad": 2
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "RTR-500",
+        "descripcion": "BASE DE ESTACION WIRELESS",
+        "serial": "329A035D",
+        "precio": 200,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "HERRAMIENTA",
+        "referencia": "ES1",
+        "descripcion": "UNIDAD DVD ",
+        "marca": "LITEON",
+        "serial": "08004",
+        "precio": 300,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "HERRAMIENTA",
+        "referencia": "BDR-XS07UHD",
+        "descripcion": "UNIDAD BLU-RAY ",
+        "marca": "PIONEER ",
+        "serial": "4329UC",
+        "precio": 500,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "PHANTOM",
+        "referencia": "US-1 ECHOZY",
+        "descripcion": "PHANTOM DE ULTRASONIDO ABDOMEN",
+        "marca": "KYOTO KAGAKU",
+        "serial": "E-190422-759",
+        "precio": 200,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "PHANTOM",
+        "referencia": "M98 EHO -ZOU",
+        "descripcion": "PHANTOM MODELO DE ORGANOS ABDOMINALES",
+        "marca": "KYOTO KAGAKU",
+        "serial": "E-190422-759(11224-001)",
+        "precio": 400,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "PHANTOM",
+        "referencia": "LM-046A ",
+        "descripcion": "PHANTOM KOKEN RAT",
+        "marca": "KOKEN",
+        "serial": "2466",
+        "precio": 1000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "PHANTOM",
+        "referencia": "070L",
+        "descripcion": "PHANTOM DE PROSTATA",
+        "marca": "CIRS",
+        "serial": "20285.1-1",
+        "precio": 10000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "SIMULADOR",
+        "referencia": "LM-094B",
+        "descripcion": "SIMULADOR DE SUTURAS",
+        "marca": "KOKEN",
+        "serial": "LOTE:181200282",
+        "precio": 500,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "SIMULADOR",
+        "referencia": "LM-026G",
+        "descripcion": "SIMULADOR BEBE NIÑA ",
+        "marca": "KOKEN",
+        "serial": "N/T",
+        "precio": 5800,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "SIMULADOR",
+        "referencia": "LM-026M",
+        "descripcion": "SIMULADOR BEBE NIÑO",
+        "marca": "KOKEN",
+        "serial": "N/T",
+        "precio": 300,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "SIMULADOR",
+        "referencia": "K-5000 ComboLab (Drylab+Wetlab)",
+        "descripcion": "SIMULADOR PARA CATARATAS",
+        "marca": "KITARO",
+        "serial": "N/T",
+        "precio": 2000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "REPUESTO",
+        "referencia": "TMW-10785",
+        "descripcion": "REPUESTOS PARA TABUMATIC",
+        "marca": "TAKUBO",
+        "serial": "N/T",
+        "precio": 51,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "BLp-4 BETA (Black)",
+        "descripcion": "LUPA BINOCULAR",
+        "marca": "NEITZ",
+        "serial": "05802A004   06911A002",
+        "precio": 30000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "SIMULADOR",
+        "referencia": "MW 45",
+        "descripcion": "SIMULADOR Nasopharyngeal swab",
+        "marca": "KYOTO KAGAKU",
+        "serial": "K20ME0003923",
+        "precio": 20,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "SIMULADOR",
+        "referencia": "LM-085M3",
+        "descripcion": "SIMULADOR PARA INTUBACION DIFICIL ",
+        "marca": "KOKEN",
+        "serial": "N/T",
+        "precio": 8175,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": 801,
+        "descripcion": "TECLADO ALFA NUMERICO",
+        "marca": "SR",
+        "serial": "X0015SNZ9F",
+        "precio": 200,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "N/A",
+        "descripcion": "QUAT-DINA DESINFECTANTES ",
+        "marca": "QUAT-DINA",
+        "serial": "LOTE: OT106 VENCE 11/2024",
+        "precio": 200,
+        "cantidad": 55
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "N/A",
+        "descripcion": "ENZIDINA PLUS ESPUMA ",
+        "marca": "HOLANDINA",
+        "serial": "LOTE: 0N296 VENCE 01/2025",
+        "precio": 800,
+        "cantidad": 19
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "AED3 ",
+        "descripcion": "DEA PORTATIL",
+        "marca": "ZOLL",
+        "serial": "21 AX20C050151",
+        "precio": 20,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "800-001250",
+        "descripcion": "MALETIN DEA CARRY CASE ",
+        "marca": "ZOLL",
+        "serial": "N/T",
+        "precio": 2000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "SIMULADOR ",
+        "referencia": "SEE-THRU MR",
+        "descripcion": "SIMULADOR PACIENTE M2 DESFRIBILADOR",
+        "marca": "SYMBIO - ZOLL",
+        "serial": "Q22B51033",
+        "precio": 800,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "SUMULADOR",
+        "referencia": 61117,
+        "descripcion": "SIMULADOR PULMON",
+        "marca": "WINNOMED - ZOLL",
+        "serial": "N/T",
+        "precio": 600,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "8199-M20-23-200B",
+        "descripcion": "DESFIBRILADOR  M2",
+        "marca": "ZOLL",
+        "serial": "BA21A00122",
+        "precio": 32,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "8660-001402-10",
+        "descripcion": "VENTILADOR ZVENT",
+        "marca": "ZOLL",
+        "serial": "21AY22D048859",
+        "precio": 200,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": 6787,
+        "descripcion": "CIRCUITO PACIENTE",
+        "marca": "ZOLL",
+        "serial": "LOTE 171003",
+        "precio": 10,
+        "cantidad": 3
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "24180001010-10",
+        "descripcion": "PALAS PARA DESFIBRILADOR",
+        "marca": "ZOLL",
+        "serial": "21U21A0414712",
+        "precio": 51,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "C-200-01",
+        "descripcion": "JERINGAS DE INYECTOR ",
+        "marca": "SINO MDT",
+        "serial": "LOTE: W020029920 VENCE 2025 ",
+        "precio": 20,
+        "cantidad": 46
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "EU92-06",
+        "descripcion": "UNIDAD SWM",
+        "marca": "HITACHI",
+        "serial": "G3095721",
+        "precio": 501,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "LICENCIAS",
+        "referencia": "SOP-ARIETTA750-128",
+        "descripcion": "SOFTWARE ANTIVIRUS MC FEE",
+        "marca": "HITACHI",
+        "serial": "N/T",
+        "precio": 800,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "LICENCIAS",
+        "referencia": "SOP-ARIETTA65-73",
+        "descripcion": "SOFTWARE WM",
+        "marca": "HITACHI",
+        "serial": "N/T",
+        "precio": 500,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "LICENCIAS",
+        "referencia": "SOPARIETTA65-128",
+        "descripcion": "SOFTWARE MC FEE ",
+        "marca": "HITACHI",
+        "serial": "N/T",
+        "precio": 300,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "PM-LI880-H001",
+        "descripcion": "KIT DE CONECCION DE VIDEO IMPRESORA",
+        "marca": "HITACHI",
+        "serial": "N/T",
+        "precio": 700,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "L442",
+        "descripcion": "TRANSDUCTOR LINEAL ",
+        "marca": "HITACHI",
+        "serial": "206H8926",
+        "precio": 90,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "C253",
+        "descripcion": "TRANSDUCTOR CONVEXO",
+        "marca": "HITACHI",
+        "serial": "G3040356",
+        "precio": 600,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "L441",
+        "descripcion": "TRANSDUCTOR LINEAL ",
+        "marca": "HITACHI",
+        "serial": "20693278",
+        "precio": 800,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "HMBAT43ES",
+        "descripcion": "BATERIA PARA NOBLUS",
+        "marca": "HITACHI",
+        "serial": "07180",
+        "precio": 21250,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "N/A",
+        "descripcion": "KIT DE CUCHILLOS PARA MICROCIRUGIA",
+        "marca": "KAI MEDICAL ",
+        "serial": "N/T",
+        "precio": 600,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "NOBLUS",
+        "descripcion": "ECOGRAFO NOBLUS",
+        "marca": "HITACHI",
+        "serial": "G3007037",
+        "precio": 8000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "SONOEYE P6 VET ",
+        "descripcion": "ECOGRAFO PORTATIL MICROCONVEX ",
+        "marca": "CHISON",
+        "serial": "121031654",
+        "precio": 2000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "SONOEYE P2",
+        "descripcion": "ECOGRAFO PORTATIL LINEAL",
+        "marca": "CHISON",
+        "serial": "122063016",
+        "precio": 20000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "SONOEYE P2 VET ",
+        "descripcion": "ECOGRAFO PORTATIL LINEAL ",
+        "marca": "CHISON",
+        "precio": 4000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "SONOEYE P5",
+        "descripcion": "ECOGRAFO PORTATIL CONVEX",
+        "marca": "CHISON",
+        "serial": "121091246",
+        "precio": 5885,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "EZU-PA5V",
+        "descripcion": "GUIAS DE BIOPSIA  CAJA X 24",
+        "marca": "FUJIFILM",
+        "serial": "G3148032 VENCE 20260930",
+        "precio": 224488,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "EZU-PA5V",
+        "descripcion": "GUIAS DE BIOPSIA  CAJA X 24",
+        "marca": "FUJIFILM",
+        "serial": "G3148034 VENCE 20260930",
+        "precio": 2000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "EZU-PA5V",
+        "descripcion": "GUIAS DE BIOPSIA  CAJA X 24",
+        "marca": "FUJIFILM",
+        "serial": "G3148035 VENCE 20260930",
+        "precio": 955,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "HS-1600V",
+        "descripcion": "ECOGRAFO VETERIANARIO",
+        "marca": "HONDA",
+        "serial": "20400732",
+        "precio": 400,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "HS-1600V",
+        "descripcion": "ECOGRAFO VETERIANARIO",
+        "marca": "HONDA",
+        "serial": "20400733",
+        "precio": 600,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "HL-V-721 2M",
+        "descripcion": "TRANSDUCTOR LINEAL ",
+        "marca": "HONDA",
+        "serial": "11100068",
+        "precio": 900,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "HL-V-875M ",
+        "descripcion": "TRANSDUCTOR LINEAL TRANSRECTAL",
+        "marca": "HONDA",
+        "serial": "20300770",
+        "precio": 8000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "HLS-882 MT -F",
+        "descripcion": "TRANSDUCTOR LINEAL TIPO F",
+        "marca": "HONDA",
+        "serial": "00810070",
+        "precio": 99000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "HBP-101B ",
+        "descripcion": "BATERIA PARA H102",
+        "marca": "HONDA",
+        "serial": "N/T",
+        "precio": 70100,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "HBP-1600",
+        "descripcion": "BATERIA PARA HS-1600",
+        "marca": "HONDA",
+        "serial": "2021D0012",
+        "precio": 6000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "N/A",
+        "descripcion": "MALETIN HONDA HS-1600",
+        "marca": "HONDA",
+        "serial": "N/A",
+        "precio": 6000,
+        "cantidad": 2
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "HS-102V",
+        "descripcion": "ECOGRAFO VETERINARIO",
+        "marca": "HONDA",
+        "serial": "11120448",
+        "precio": 60,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "HS-102V",
+        "descripcion": "ECOGRAFO VETERINARIO",
+        "marca": "HONDA",
+        "serial": "11120447",
+        "precio": 700,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "B6-E",
+        "descripcion": "TRANSDUCTOR ENDOCAVITARIO",
+        "marca": "CHISON",
+        "serial": "2220330617",
+        "precio": 600,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "B6-E",
+        "descripcion": "TRANSDUCTOR ENDOCAVITARIO",
+        "marca": "CHISON",
+        "serial": "2220330625",
+        "precio": 80,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "HCV-7710MV",
+        "descripcion": "TRANSDUCTOR MICROCONVEX PARA ASPIRACION ",
+        "marca": "HONDA",
+        "serial": "10100036",
+        "precio": 70,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "ECO 3 EXPERT VET",
+        "descripcion": "ECOGRAFO VETERINARIO ECO3",
+        "marca": "CHISON",
+        "serial": "122010593",
+        "precio": 90,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "L7M-A",
+        "descripcion": "TRANSDUCTOR LINEAL ECO 3",
+        "marca": "CHISON",
+        "serial": "222014108",
+        "precio": 80,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "MC6-A",
+        "descripcion": "TRANSDUCTOR MICROCONVEX ECO 3",
+        "marca": "CHISON",
+        "serial": "2211202966",
+        "precio": 7000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EBIT 30 VET ",
+        "descripcion": "ECOGRAFO VETERINARIO EBIT 30 VET",
+        "marca": "CHISON",
+        "serial": "122010080",
+        "precio": 90,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "MC6-E",
+        "descripcion": "TRANSDUCTOR MICROCONVEXO EBIT 30 VET",
+        "marca": "CHISON",
+        "serial": "2220101273",
+        "precio": 90,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "L7-E",
+        "descripcion": "TRANSDUCTOR LINEAL EBIT 30 VET",
+        "marca": "CHISON",
+        "serial": "2220151317",
+        "precio": 9000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EBIT 60 ",
+        "descripcion": "ECOGRAFO EBIT 60",
+        "marca": "CHISON",
+        "serial": "122060464",
+        "precio": 700,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "L7-E",
+        "descripcion": "TRANSDUCTOR LINEAL EBIT 60 ",
+        "marca": "CHISON",
+        "serial": "2220352154",
+        "precio": 9000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "C3-E",
+        "descripcion": "TRANSDUCTOR CONVEX EBIT 60 ",
+        "marca": "CHISON",
+        "serial": "2220352110",
+        "precio": 9000,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "SONOEYE P2",
+        "descripcion": "ECOGRAFO PORTATIL LINEAL ",
+        "marca": "CHISON",
+        "serial": "122063017",
+        "precio": 90,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "SONOEYE P2",
+        "descripcion": "ECOGRAFO PORTATIL LINEAL ",
+        "marca": "CHISON",
+        "serial": "122063018",
+        "precio": 80,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EBIT 60 ",
+        "descripcion": "ECOGRAFO EBIT 60",
+        "marca": "CHISON",
+        "serial": "121120674",
+        "precio": 500,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "L7-E",
+        "descripcion": "TRANSDUCTOR LINEAL EBIT 60 ",
+        "marca": "CHISON",
+        "serial": "2220350489",
+        "precio": 400,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "C3-E",
+        "descripcion": "TRANSDUCTOR CONVEX EBIT 60 ",
+        "marca": "CHISON",
+        "serial": "2220652492",
+        "precio": 600,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "LT-1730",
+        "descripcion": "LACTATE PRO2 ",
+        "marca": "ARKRAY",
+        "serial": "1730-2000404",
+        "precio": 700,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "LT-1730",
+        "descripcion": "LACTATE PRO2 ",
+        "marca": "ARKRAY",
+        "serial": "1730-2000405",
+        "precio": 9000,
+        "cantidad": 18
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": 105882,
+        "descripcion": "TIRILLA DE PRUEBA SANGRE X25 ",
+        "marca": "ARKRAY",
+        "serial": "LOTE M196B01L VENCE 202106",
+        "precio": 900,
+        "cantidad": 5
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "GLUCOCARD ",
+        "descripcion": "TIRILLAS DE PRUEBA X50 ",
+        "marca": "ARKRAY",
+        "serial": "LOTE 3AK211 VENCE 202304",
+        "precio": 200,
+        "cantidad": 2
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": 73591,
+        "descripcion": "TIRILLAS PARA PRUEBA DE ORINA X100",
+        "marca": "ARKRAY",
+        "serial": "LOTE 0EA1J16 VENCE 202309",
+        "precio": 500,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "GLUCOQUICK",
+        "descripcion": "LANCETAS ESTERILES X 50 ",
+        "marca": "DIABETRIX ",
+        "serial": "N/T",
+        "precio": 60,
+        "cantidad": 3
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "PU-4010",
+        "descripcion": "ANALIZADOR DE ORINA",
+        "marca": "ARKRAY",
+        "serial": "62010007",
+        "precio": 60,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "820-0106-15",
+        "descripcion": "CIRCUITO DE VENTILACION PEDIATRICO / ADULTO ",
+        "marca": "ZOLL",
+        "serial": "LOTE 1721A VENCE 20260424",
+        "precio": 4,
+        "cantidad": 75
+    },
+    {
+        "id": " ",
+        "categoria": "INSUMO",
+        "referencia": "820-0107-20",
+        "descripcion": "CIRCUITO DE VENTILACION PEDIATRICO",
+        "marca": "ZOLL",
+        "serial": "LOTE 4520 VENCE 20251107",
+        "precio": 400,
+        "cantidad": 20
+    },
+    {
+        "id": " ",
+        "categoria": "INSUM",
+        "referencia": "UPO11-3",
+        "descripcion": "UPS 3KBA ",
+        "marca": "CDP",
+        "serial": "879071000475",
+        "precio": 90,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "N/A",
+        "referencia": "N/A",
+        "descripcion": "CAMILLA GRIS ",
+        "marca": "N/A",
+        "serial": "N/A",
+        "precio": 80,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EZU-HC1N",
+        "descripcion": "CARRO TRANSPORTE NOBLUS ",
+        "marca": "HITACHI",
+        "serial": "206A1022",
+        "precio": 80,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "EQUIPO",
+        "referencia": "EZU-AB8",
+        "descripcion": "EXTENSOR ( CARRO NOBLUS )",
+        "marca": "HITACHI",
+        "serial": "G3015055",
+        "precio": 50,
+        "cantidad": 1
+    },
+    {
+        "id": " ",
+        "categoria": "ACCESORIO",
+        "referencia": "N/A ",
+        "descripcion": "CONTROL",
+        "marca": "WT3540 ",
+        "serial": "N/A ",
+        "precio": 50,
+        "cantidad": 2
+    }
+]
