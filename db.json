@@ -1,4 +1,6 @@
-[
+
+{
+ "post": [
     {
         "id": " ",
         "categoria": "EQUIPO",
@@ -30,3 +32,4 @@
         "cantidad": 1
     },
 ]
+}
