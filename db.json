@@ -1,6 +1,6 @@
 
 {
- "post": [
+ "datos": [
     {
         "id": " ",
         "categoria": "EQUIPO",
@@ -30,6 +30,6 @@
         "serial": "G3007037",
         "precio": 8000,
         "cantidad": 1
-    },
+    }
 ]
 }
